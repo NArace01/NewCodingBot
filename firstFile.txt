@@ -1,2 +1,2 @@
 echo "Hello World"
-echo "Demo Projects"
+echo "Demo Projec.ts"
