@@ -1,2 +1,2 @@
 echo "Hello World"
-echo "Demo Projetdc"
+echo "Demo Prjedc"
